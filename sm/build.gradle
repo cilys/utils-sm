@@ -1,0 +1,13 @@
+apply plugin: 'java-library'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile 'org.bouncycastle:bcprov-jdk15on:1.64'
+    compile 'org.apache.commons:commons-lang3:3.9'
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
+
+
