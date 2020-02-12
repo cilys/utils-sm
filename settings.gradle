@@ -1,2 +1,2 @@
-include ':app', ':sm'
+include ':app', ':utils'
 rootProject.name='utils-sm'
