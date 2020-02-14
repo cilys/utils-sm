@@ -1,6 +1,6 @@
 apply plugin: 'java-library'
 apply plugin: 'com.github.dcendents.android-maven'
-version = "sm-1.0.0"
+version = "sm-1.0.1"
 group = "com.github.cilys"
 
 dependencies {

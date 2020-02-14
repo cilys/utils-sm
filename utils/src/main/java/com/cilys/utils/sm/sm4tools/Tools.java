@@ -199,12 +199,12 @@ public class Tools {
         return res;
     }
 
-    public static void main(String[] args){
-        Tools tool = new Tools();
-        String s = "abcdABCDjigi1234";
-        ArrayList<int[]> a = tool.StrToList(s);
-        System.out.println(tool.ListToStr(a));
-
-    }
+//    public static void main(String[] args){
+//        Tools tool = new Tools();
+//        String s = "abcdABCDjigi1234";
+//        ArrayList<int[]> a = tool.StrToList(s);
+//        System.out.println(tool.ListToStr(a));
+//
+//    }
 
 }

@@ -112,13 +112,13 @@ public class BasicComponents {
         return result;
     }
 
-    public static void main(String[] args) {
-        BasicComponents bc = new BasicComponents();
-        int[] n = {0x11, 0x12, 0x13, 0x14};
-        int[] m = bc.PIChange(n);
-        for (int i = 0; i < 4; i++) {
-            System.out.println(m[i]);
-        }
-
-    }
+//    public static void main(String[] args) {
+//        BasicComponents bc = new BasicComponents();
+//        int[] n = {0x11, 0x12, 0x13, 0x14};
+//        int[] m = bc.PIChange(n);
+//        for (int i = 0; i < 4; i++) {
+//            System.out.println(m[i]);
+//        }
+//
+//    }
 }
